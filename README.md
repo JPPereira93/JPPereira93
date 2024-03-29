@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jppereira93&label=Profile%20views&color=0e75b6&style=flat" alt="jppereira93" /> </p>
 
-- 🔭 I’m currently working on **Susceptibility Mapping and InSAR data processing**
+- 🔭 I’m currently working on **Susceptibility Mapping and Remote Sensing geoprocessing**
 - 🌱 I’m currently learning **Advanced Spatial Analysis with SQL and Machine Learning in GIS**
 - 👨‍💻 All of my projects are available at [https://github.com/JPPereira93](https://github.com/JPPereira93)
 - 💬 Ask me about **InSAR, Remote Sensing, and GIS applications**

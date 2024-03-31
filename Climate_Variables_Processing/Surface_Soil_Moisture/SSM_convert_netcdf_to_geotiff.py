@@ -13,9 +13,6 @@ import argparse
 # Convert NETCDF files to GeoTIFF (it was needed before knowing how to download precipitation data as a geotiff)
 #
 #@author: Joao Pereira  
-#
-#Spotlite - AEHTRA, LDA
-#29/02/2023
 #------------------------------------------------------
 
 

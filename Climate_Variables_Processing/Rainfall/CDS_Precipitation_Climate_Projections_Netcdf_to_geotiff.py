@@ -13,9 +13,6 @@ import geopandas as gpd
 
 #
 #@author: Joao Pereira  
-#
-#Spotlite - AEHTRA, LDA
-#27/07/2023
 #------------------------------------------------------
 
 

@@ -12,9 +12,6 @@ from rasterio.warp import calculate_default_transform, reproject, Resampling
 # Organize Precipitation data (PDIR-NOW) folders and extract the data into two final csvs, one with merged dataframes and the other using spatial join operation
 #
 #@author: Joao Pereira  
-#
-#Spotlite - AEHTRA, LDA
-#15/03/2023
 #------------------------------------------------------
 
 

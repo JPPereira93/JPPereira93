@@ -12,9 +12,6 @@ import os
 #Apply this script to either the Yearly Max netcdf files and Yearly min from the ''Temperature statistics for Europe derived from climate projections (Cordex Regional Climate Model)''
 #
 #@author: Joao Pereira  
-#
-#Spotlite - AEHTRA, LDA
-#27/07/2023
 #------------------------------------------------------
 
 

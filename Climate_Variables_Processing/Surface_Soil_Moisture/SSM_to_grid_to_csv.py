@@ -10,9 +10,6 @@ import argparse
 # Organize Surface Soil Moisture folders and extract the data into two final csvs, one with merged dataframes and the other using spatial join operation
 #
 #@author: Joao Pereira  
-#
-#Spotlite - AEHTRA, LDA
-#04/04/2023
 #------------------------------------------------------
 
 

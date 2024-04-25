@@ -5,9 +5,6 @@ import argparse
 # Calculate accumulated precipitation for each row. Use this script after using: https://github.com/JPPereira93/pygeo/blob/main/PDIR_to_grid_to_csv.py
 #
 #@author: Joao Pereira  
-#
-#Spotlite - AEHTRA, LDA
-#1/06/2023
 #------------------------------------------------------
 
 

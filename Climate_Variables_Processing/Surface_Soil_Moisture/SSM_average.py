@@ -6,9 +6,6 @@ import os
 # Calculate average surface soil moisture for each row. Use this script after https://github.com/JPPereira93/pygeo/blob/main/SSM_to_csv.py
 #
 # author: Joao Pereira
-#
-# Spotlite - AEHTRA, LDA
-# 11/04/2023
 #------------------------------------------------------
 
 parser = argparse.ArgumentParser(description='Process CSV file for average surface soil moisture')

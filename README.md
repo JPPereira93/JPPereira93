@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/JPPereira93](https://github.com/JPPereira93)
 - 💬 Ask me about **InSAR, Remote Sensing, and GIS applications**
 - 📫 How to reach me: **joaopmpereira93@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/12vviLdTc5odYCHwYxidHCPF2U_x1Mgtw/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-bS0Qf6QUQPG8BtYcgvSIBR5GMFWSAMH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

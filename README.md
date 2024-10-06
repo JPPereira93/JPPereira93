@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jppereira93&label=Profile%20views&color=0e75b6&style=flat" alt="jppereira93" /> </p>
 
 - 🔭 I’m currently working on **Susceptibility Mapping and Remote Sensing geoprocessing**
-- 🌱 I’m currently learning **Advanced Spatial Analysis with SQL, Machine Learning, and python for GIS automation processes**
+- 🌱 I’m currently learning **Advanced Spatial Analysis with SQL and Machine Learning for GIS**
 - 👨‍💻 All of my projects are available at my [Portfolio Repo](https://github.com/JPPereira93/portfolio_geospatial) (Still in progress -> atm the repo is private)
 - 💬 Ask me about **InSAR, Remote Sensing, and GIS applications**
 - 📫 How to reach me: **joaopmpereira93@gmail.com**

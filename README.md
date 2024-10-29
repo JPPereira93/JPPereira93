@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on **Susceptibility Mapping and Remote Sensing geoprocessing**
 - 🌱 I’m currently learning **Advanced Spatial Analysis with SQL and Machine Learning for GIS**
-- 👨‍💻 All of my projects are available at my [Portfolio Repo](https://github.com/JPPereira93/portfolio_geospatial) (Still in progress -> atm the repo is private)
-- 💬 Ask me about **InSAR, Remote Sensing, and GIS applications**
+- 👨‍💻 All of my projects are available at my [Geospatial Workflows Repo](https://github.com/JPPereira93/geospatial-workflows) (Still in progress)
+- 💬 Ask me about **InSAR, Susceptibility mapping, and GIS applications**
 - 📫 How to reach me: **joaopmpereira93@gmail.com**
-- 📄 Know about my experience: [My Resume](https://drive.google.com/file/d/1-bS0Qf6QUQPG8BtYcgvSIBR5GMFWSAMH/view?usp=sharing)
+- 📄 Know about my experience: [My Resume](https://drive.google.com/file/d/1-45bOTb-ApCpdfBRRHcZiUq4ruGFoV-b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

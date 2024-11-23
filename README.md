@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm João Pereira</h1>
-<h3 align="center">Geospatial & InSAR Analyst</h3>
+<h3 align="center">Remote Sensing & GIS Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jppereira93&label=Profile%20views&color=0e75b6&style=flat" alt="jppereira93" /> </p>
 
-- 🔭 I’m currently working on **Susceptibility Mapping and Remote Sensing geoprocessing**
+- 🔭 I’m currently working on **Susceptibility Mapping, machine learning applied to Remote Sensing and python for remote sensing and GIS automation**
 - 🌱 I’m currently learning **Advanced Spatial Analysis with SQL and Machine Learning for GIS**
 - 👨‍💻 All of my projects are available at my [Geospatial Workflows Repo](https://github.com/JPPereira93/geospatial-workflows)
 - 💬 Ask me about **InSAR, Susceptibility mapping, and GIS applications**

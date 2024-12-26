@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Susceptibility Mapping, machine learning applied to Remote Sensing and python for remote sensing and GIS automation**
 - 🌱 I’m currently learning **Advanced Spatial Analysis with SQL and Machine Learning for GIS**
-- 👨‍💻 All of my projects are available at my [Geospatial Workflows Repo](https://github.com/JPPereira93/geospatial-workflows)
+- 👨‍💻 All of my projects are available at my [Geospatial Workflows Repo](https://github.com/JPPereira93/geospatial-workflows). If you want to take a look, ask for collaboration invite!
 - 💬 Ask me about **InSAR, Susceptibility mapping, and GIS applications**
 - 📫 How to reach me: **joaopmpereira93@gmail.com**
 - 📄 Know about my experience: [My Resume](https://drive.google.com/file/d/1-45bOTb-ApCpdfBRRHcZiUq4ruGFoV-b/view?usp=sharing)

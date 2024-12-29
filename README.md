@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jppereira93&label=Profile%20views&color=0e75b6&style=flat" alt="jppereira93" /> </p>
 
 - 🔭 I’m currently working on **Susceptibility Mapping, machine learning applied to Remote Sensing and python for remote sensing and GIS automation**
-- 🌱 I’m currently learning more about **DevOps, more specifically about best practices Version control with Git and Github and Docker containerization**
+- 🌱 I’m currently learning more about **DevOps, more specifically about best practices regarding Version control with Git and Github and Docker containerization**
 - 👨‍💻 All of my projects are available at my [Geospatial Workflows Repo](https://github.com/JPPereira93/geospatial-workflows). If you want to take a look, ask for collaboration invite!
 - 💬 Ask me about **InSAR, Susceptibility mapping, and Remote Sensing applications**
 - 📫 How to reach me: **joaopmpereira93@gmail.com** or [Linkedin](https://www.linkedin.com/in/joaopereirauc93/) 
